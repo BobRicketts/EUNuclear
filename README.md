@@ -7,8 +7,8 @@ Motivated by the recent inclusion of nuclear energy into the EU taxonomy for sus
 | :------------ | :-------------- |
 | _Data_                                  | Contains data and files used across the project |
 | _Twitter data collection_               | Scripts for Twitter data collection |
-| _Constructing final dataset_            | Scripts for turning raw Twitter data into a tabular dataset |
-| _Retweet network and actor locations_   | Scripts for constructing retweet network and  |
+| _Constructing final dataset_            | Scripts for turning raw Twitter data into subsetted tabular dataset |
+| _Retweet network and actor locations_   | Scripts for constructing retweet network and examining user locations |
 | _Content analysis_                      | Scripts for dictionary classification of tweets and validation of dictionary |
 | _Topic models_                          | Scripts for fitting and analyzing Top2Vec and hSBM topic models|
  
