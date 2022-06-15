@@ -1,0 +1,1634 @@
+Topic 1
+Sum(p_tw_d):  573.9552388397766
+--------------------------------
+Token                    Prob
+nuclear                  0.35772
+eu                       0.16881
+european                 0.06770
+say                      0.02902
+support                  0.01251
+policy                   0.01098
+via                      0.00972
+help                     0.00905
+union                    0.00779
+give                     0.00719
+european_union           0.00719
+week                     0.00712
+issue                    0.00686
+read                     0.00679
+future                   0.00652
+report                   0.00632
+move                     0.00612
+news                     0.00533
+continue                 0.00519
+push                     0.00506
+--------------------------------
+Representative documents
+Venn diagram of the EU nuclear debate https://t.co/w6rH0RTDN8
+-----
+My statement for @workersparty about EU nuclear energy policy https://t.co/VR1mdM0CS0
+-----
+Met with @rafaelmgrossi to discuss excellent EU - @iaeaorg cooperation. 
+
+#IAEA is an essential partner to address nuclear proliferation issues and has a key role to monitor nuclear #JCPOA commitments. https://t.co/z37wxlqS0H
+-----
+Blog Post: 'Evolution' in EU nuclear debate https://t.co/rBz0lDJzmP
+-----
+#EU green-labels #nuclear and gas https://t.co/KBYFCQHIxG
+-----
+This week including my policy research piece on ongoing European efforts to encourage nuclear power investment https://t.co/zT1TXTa9bq https://t.co/DR8TKxMWQl
+-----
+Redux: The lunatics have taken over the asylum (official).
+https://t.co/nRTJz1hwMP 
+
+#EU #nuclear #Taxonomy
+-----
+EU nears nuclear decision ahead of Christmas: Brussels Edition https://t.co/FOZIpgTpTq via @johnainger @DeutschJill https://t.co/D7sF9DuAfS
+-----
+At the #EUNPDC2021 #EU Conference on #nonproliferation &amp; #disarmament @UN_Disarmament @INakamitsu outlines various priorities for #nuclear n-p &amp; D regime and priorities for upcoming #NPTRevCon #RevConX, urging need for progress on EIF of #CTBT. https://t.co/9gr5CFnZYi
+-----
+#BREAKING Iran says EU nuclear negotiator to visit this week https://t.co/Dgd6Kcv9Nu
+-----
+--------------------------------
+
+
+Topic 2
+Sum(p_tw_d):  567.7420910618272
+--------------------------------
+Token                    Prob
+would                    0.01887
+make                     0.01601
+get                      0.01465
+one                      0.01403
+go                       0.01390
+time                     0.01279
+also                     0.01161
+see                      0.01130
+use                      0.01124
+like                     0.00999
+want                     0.00937
+good                     0.00925
+take                     0.00869
+risk                     0.00832
+change                   0.00813
+dont                     0.00795
+even                     0.00782
+still                    0.00776
+way                      0.00745
+well                     0.00708
+--------------------------------
+Representative documents
+"Another scientific question is, how do we assess the risk of a major nuclear accident that would tigger a lot of pollution in Europe? It is very difficult, because the consequences would be massive, &amp; the risk is very low." highlights @ThPellerin, @DelorsInstitute.
+
+#eaDebates. https://t.co/0CKbrCLlNw
+-----
+@Apostata15 @GP500 Given how mangled these things have become in the minds of our great leaders I would not be surprised about anything really. Reality has overtaken best parodies a long time ago when it comes to anti #nuclear thinking in Europe.
+-----
+@AukeHoekstra @mzjacobson @ramez @JesseJenkins @DrChrisClack @stepien_przemek @hausfath @NREL @agreenewyork @BeyondNukesInt ‘
+We haven’t even gotten to the nuclear waste issue
+
+Since we have no safe way to store the waste we already have over the period of time that it will remain dangerous, why would we consent to making even more of it?
+
+And why would the EU add it to the ‘clean’ column (with GAS!)?
+-----
+This is irresponsible: Because some European Government don't want to discuss the nuclear option, they try to get one million extra tons of coal from Botswana. Annually. Additionally.
+It is a shame, @Die_Gruenen!
+
+https://t.co/9zGDTDS6iG
+-----
+How many more lives does Europe want to sacrifice to extend NATO&amp;#8217;s borders?  NO #nuclear https://t.co/FfTEwjWteQ
+-----
+#uranium $EU 3rd time lucky? - #EU chart on @TradingView https://t.co/q2STpdfPsh
+-----
+Excellent show. @ziontree knows her stuff. Better yet, she knows how to communicate it.
+
+Tough questions, good answers.
+
+Listen. Learn. Enjoy.
+
+#nuclear #EUTaxonomy https://t.co/Z3M8t5nWWt
+-----
+Without nuclear?
+Nowhere as the EU proves time and time again https://t.co/BguZq4zTkS
+-----
+NG and LNG capacity is stretched to their limits already, VRE will provide little relief as Europe enters the darkest season with the least amount of wind and sun.
+
+Coal and nuclear appear to be the only options with some room to provide more capacity.
+-----
+Japan is in the process of restarting reactors. Not sure where they are right now but they could have 10+ that could go online in 2022. That would free up LNG, since Japan is currently the largest importer, to go to Europe
+-----
+--------------------------------
+
+
+Topic 3
+Sum(p_tw_d):  518.1299645748355
+--------------------------------
+Token                    Prob
+europe                   0.10131
+plant                    0.04091
+new                      0.02786
+reactor                  0.02665
+germany                  0.02618
+country                  0.02571
+u                        0.02478
+power_plant              0.02056
+year                     0.01902
+france                   0.01862
+nuclear_plant            0.01433
+coal                     0.01420
+could                    0.01373
+renewables               0.01031
+come                     0.01004
+wind                     0.00991
+market                   0.00877
+big                      0.00877
+demand                   0.00857
+new_nuclear              0.00837
+--------------------------------
+Representative documents
+@talkRADIO and Europe had been shutting down all its nuclear reactors
+-----
+More new nuclear in Europe. https://t.co/gApTBAeVsw
+-----
+@EmberClimate @e3g @RegAssistProj @Bellona_EU You are missing not shutting down 5 nuclear units in Belgium and 3 units in Germany. An additional 3 units could be restarted in Germany. See analysis from IEA for Europe item 5
+-----
+By shutting down its nuclear plants, Europe is in danger of making its own decarbonization harder, says @grepsul https://t.co/NmGJocJaf1
+-----
+From the innumerates who closed down nuclear power plants and made Europe dependent on Russian fossil fuels. https://t.co/XW79t4Zf8U
+-----
+Nah, the US markets will rebound hard after Europe closes. #uranium
+-----
+From the folks who shut down nuclear power plants to make Europe dependent on Russian gas https://t.co/t70vrTuFhj
+-----
+@vonderleyen Urge them to reopen their nuclear plants ASAP to free up LNG capacity for Europe?
+-----
+The alternative to natural gas and nuclear is coal, which Europe, led by Germany, burned more of in 2021, in part due to lack of wind, and will burn more of this year.
+-----
+By shutting down its nuclear plants, Europe is in danger of making its own decarbonization harder, says @grepsul @YDesbazeille @FORATOM_nuclear  https://t.co/9ZTKQqGEMO via @bopinion
+-----
+--------------------------------
+
+
+Topic 4
+Sum(p_tw_d):  473.675823004813
+--------------------------------
+Token                    Prob
+gas                      0.12928
+green                    0.07203
+taxonomy                 0.06732
+gas_nuclear              0.04749
+eutaxonomy               0.03806
+sustainable              0.03742
+include                  0.03390
+investment               0.03142
+label                    0.02678
+commission               0.02670
+eu_taxonomy              0.02486
+fossil                   0.02414
+nuclear_gas              0.01503
+european_commission      0.01247
+inclusion                0.01231
+include_nuclear          0.01199
+fossil_gas               0.01183
+greenwashing             0.01095
+proposal                 0.01039
+nuclear_green            0.01023
+--------------------------------
+Representative documents
+CLIMATE/FINANCE: @EU_Commission maintains its proposal to include fossil #gas and #nuclear in #EUtaxonomy
+https://t.co/rvs4NukUR9
+-----
+I weighed in on the proposal to include nuclear and gas as "green" in the proposed EU taxonomy for investment. 
+
+https://t.co/rYbitif3kK
+-----
+An @EU_Commission FAILURE: labelling dangerous fossil gas &amp; nuclear as “green” investments in the #EUTaxonomy - it's greenwashing, pure &amp; simple. 
+https://t.co/pveRw2X39K https://t.co/VIdrCbenmG
+-----
+Here is @DaveKeating's backstory on the EU preparing to include nuclear and gas in its green investment list: https://t.co/Il7QzqgT3n https://t.co/lR1CBPokBR
+-----
+EU Commission declares gas, nuclear can be sustainable https://t.co/hmqqzXIwkU https://t.co/IL5Kksy7Yo
+-----
+🌍CLIMATE/FINANCE: #EUtaxonomy, @EU_Commission plans to classify fossil #gas and #nuclear as ‘transitional activities’
+#taxonomy #sustinv 
+https://t.co/8W8aEddNqY
+-----
+Inclusion of gas and nuclear in EU taxonomy not necessary – Eamon Ryan https://t.co/oItYr8ddXr
+-----
+EU green bond standard proposals exclude nuclear, gas
+
+https://t.co/HBdjto1Vbp
+-----
+Investor backlash predicted, if European Union were to include #Nuclear and #Gas as ”Green” in its EU #Taxonomy | https://t.co/RRjLoFbxu1 https://t.co/usjQb3hfOJ
+-----
+.@CarinaSilberg and @SasjaBeslik at Nordic investors @Alecta and @pfapension: Labeling nuclear and gas as sustainable may undermine the purpose of the EU #Taxonomy. https://t.co/cbdJdeMNTP
+-----
+--------------------------------
+
+
+Topic 5
+Sum(p_tw_d):  377.94017581081505
+--------------------------------
+Token                    Prob
+energy                   0.15317
+power                    0.11647
+nuclear_power            0.08768
+nuclear_energy           0.05730
+need                     0.04027
+climate                  0.03387
+call                     0.01957
+source                   0.01910
+must                     0.01599
+today                    0.01430
+stop                     0.01298
+transition               0.01148
+industry                 0.01138
+emission                 0.01129
+expert                   0.01110
+clean                    0.01082
+technology               0.00969
+put                      0.00969
+👇                        0.00960
+consider                 0.00828
+--------------------------------
+Representative documents
+@visegrad24 Europe needs more nuclear power
+-----
+@MattiMaasikas Yes, Ukraine generates 50% of power from nuclear energy. EU just 25%.
+-----
+Achievable, affordable, and low-carbon
+
+Listen to @jhuitema advocate for nuclear energy in Europe. 🙌
+
+(@RenewEurope) https://t.co/Ta9hJwaXkw
+-----
+Europe must support nuclear energy [Promoted content] https://t.co/W1hmCrqhfI
+-----
+NEW: @WilsonCenterGEP’s @TeresaEder explains European sentiments towards nuclear power and where nuclear power stands in Europe’s green energy transition. https://t.co/F6glNzY8bZ
+-----
+#Europe must support #nuclear energy https://t.co/mgZzME9gK8
+-----
+"Nuclear energy needs to be treated like all other low-carbon energy sources"
+
+French minister @BrunoLeMaire leads call for bigger role for #nuclear power in EU climate plans
+
+https://t.co/yRZBlyavrO https://t.co/7XshXBtDNY
+-----
+Lithuania’s president urges nuclear power amid EU debates on ‘green’ energy https://t.co/jK5p8GGt3j
+-----
+"Despite efforts to portray gas and nuclear as a ‘low-impact’ transitional solution, it's obvious both technologies raise serious environmental concerns and will delay the clean energy transition and make it more costly for EU citizens",
+
+writes @EuBalance
+https://t.co/SRRYySTKLd
+-----
+EU member states (and the general public for that matter) are divided and can't agree whether or not they should label nuclear power as a green energy source. Source: https://t.co/JhjFdkoDCe https://t.co/3EoQ5KKPjW
+-----
+--------------------------------
+
+
+Topic 6
+Sum(p_tw_d):  243.56413196534064
+--------------------------------
+Token                    Prob
+ireland                  0.00360
+antinuclear              0.00273
+👏_👏                      0.00230
+euco                     0.00230
+load                     0.00173
+actual                   0.00173
+turn_nuclear             0.00158
+favor                    0.00158
+suffer                   0.00144
+actively                 0.00144
+usual                    0.00144
+eu_electricity           0.00129
+ability                  0.00129
+poor                     0.00129
+nuclear_clean            0.00129
+remind                   0.00129
+nice                     0.00129
+h                        0.00129
+neighbor                 0.00129
+greta                    0.00115
+--------------------------------
+Representative documents
+'home grown' nuclear &amp; energy security! @KwasiKwarteng 
+"Today, France is Rosatom's primary trading partner in Western Europe. Rosatom actively collaborates with French businesses via its partnerships with CEA, EDF, Areva, Schneider Electric &amp; Rolls Royce"
+https://t.co/52tMWhXVpr
+-----
+@QuantrillTim @mark_lynas @RHarrabin @SuffolkAONB EDF Sizewell C hardly ‘home grown' nuclear &amp; secure energy "Today, France is Rosatom's primary trading partner in West Europe Rosatom actively collaborates with French biz via its partnerships with CEA, EDF, Areva, Schneider Electric &amp; Rolls Royce"  7/ https://t.co/52tMWhXVpr
+-----
+"Europe’s green plans are ruinous and destructive" 
+New article, by Prof. Samuel Furfari and Prof. Ernest Mund: https://t.co/rzPqKOTMEi
+#europeangreendeal #EU @TimmermansEU @FurfariSamuele #nuclear
+-----
+@MeredithAngwin I think politically it was easier for Europe to build wind turbines rather than nuclear recently.
+
+Maybe we needed this winter to remind us of our folly.
+-----
+"The usual suspects are furious for the usual reasons." A European Revelation on Climate: The EU admits nuclear and natural gas are part of the energy solution. https://t.co/5Tixg0ukY3
+-----
+Union chiefs from across Europe have pressed world leaders to factor in nuclear power as they discuss how to accelerate the path to net zero emissions at the global climate summit in Glasgow. #COP26
+
+https://t.co/cYYFKwe8we
+-----
+The self-inflicted energy crisis is helping
+
+"Surging electricity prices and ever-tighter EU emission norms are pushing the bloc’s industrial producers toward nuclear power, according to the company that operates the continent’s biggest copper mine."
+
+https://t.co/rHpzbVxqeG
+-----
+A dozen union leaders from across Europe have pressed world leaders to factor in #nuclear power as they discuss how to accelerate the path to net zero emissions at the global climate summit in Glasgow, Scotland. $EU #uranium
+-----
+ICYMI: Concerns rise over the safety of Ukraine’s nuclear facilities after Russia takes control of the largest plant in Europe and Chernobyl loses power. #MTPDaily
+
+@selectedwisdom: “It seems like there’s very low risk of an actual nuclear meltdown, but we don’t know, right?” https://t.co/IjDLWrX6zS
+-----
+WATCH: Concerns rise over the safety of Ukraine’s nuclear facilities after Russia takes control of the largest plant in Europe and Chernobyl loses power. #MTPDaily
+
+@selectedwisdom: “It seems like there’s very low risk of an actual nuclear meltdown, but we don’t know, right?” https://t.co/gM3cdJiXau
+-----
+--------------------------------
+
+
+Topic 7
+Sum(p_tw_d):  200.29427395588576
+--------------------------------
+Token                    Prob
+state                    0.03738
+member                   0.02407
+act                      0.02253
+member_state             0.01673
+activity                 0.01621
+delegate                 0.01536
+delegate_act             0.01502
+waste                    0.01451
+solution                 0.01331
+eus                      0.00973
+➡                        0.00956
+eu_member                0.00888
+economic                 0.00870
+👉                        0.00836
+➡_️                      0.00768
+scientific               0.00751
+complementary            0.00751
+radioactive              0.00734
+joint                    0.00683
+publish                  0.00683
+--------------------------------
+Representative documents
+.@EU_Commission officially confirms that its long-awaited #EUTaxonomy Complementary Delegated Act on #nuclear won't be published until mid-January 2022 (it was supposed to be published by the end of this year).
+
+https://t.co/inmcWRV59v
+-----
+The European Commission has presented the final version of the Complementary Delegated Act of the EU Taxonomy Regulation covering certain gas and #nuclear activities https://t.co/ukLbPITIOt https://t.co/wbbBJwTS7a
+-----
+The European Commission has followed through with its intention to list investments in both #naturalgas and #nuclear activities as #sustainable under the EU's #taxonomy classification.
+#NGW #energy
+https://t.co/GvXGVVVmEH https://t.co/yCo8qrwnwO
+-----
+.@EU_Commission officially confirms that the long-awaited #EUTaxonomy complementary Delegated Act on #nuclear and natural gas will published before the end of 2021. https://t.co/szwq0LIeTn
+-----
+.@EU_Commission's Complementary Delegated Act covering #nuclear energy under #EUTaxonomy likely to be published on 22 Dec. 
+
+https://t.co/3yrgyaXSg3
+-----
+EU Taxonomy: ⁦@EU_Commission⁩ begins expert consultations on Complementary Delegated Act covering certain nuclear and gas activities https://t.co/bEHnFV4wem
+-----
+The United Nations Economic Council for Europe (UNECE) analyzed the lifecycle emissions of various generating sources and found that nuclear energy had the lowest.
+
+@UNECE
+
+https://t.co/EZnBrb02yL https://t.co/4ZgYZioJQw
+-----
+"The European Commission has released to member states for consultation a draft of the complementary Delegated Act of the EU Taxonomy Regulation covering certain gas and nuclear activities."
+https://t.co/T4amPz7clB https://t.co/fmBtGyjewD
+-----
+ICYMI - worth remembering: 
+
+'The EU Taxonomy: Natural gas and nuclear power are not sustainable investments' - The Club of Rome
+https://t.co/Ulcfy1JOhx 
+#fossilgas #fossilfuels #climatecrisis #climateemergency #greenwashing #taxonomywashing #LimitstoGrowth #ltg50
+-----
+EU #Taxonomy: Commission presents Complementary Climate Delegated Act to accelerate decarbonisation.  #ReliableCarbonFree #ClimateSolution #nuclear https://t.co/4b6hOpAC74
+-----
+--------------------------------
+
+
+Topic 8
+Sum(p_tw_d):  176.86965704734862
+--------------------------------
+Token                    Prob
+electricity              0.05237
+build                    0.04285
+price                    0.04106
+crisis                   0.02876
+low                      0.02638
+cost                     0.02004
+generation               0.01964
+carbon                   0.01904
+french                   0.01607
+energy_crisis            0.01547
+china                    0.01329
+winter                   0.00952
+edf                      0.00893
+reliable                 0.00893
+output                   0.00833
+energy_price             0.00833
+twh                      0.00813
+record                   0.00774
+massive                  0.00774
+build_new                0.00754
+--------------------------------
+Representative documents
+#Europe Faces Dire Winter as #Nuclear Outages Deepen Energy Crunch. https://t.co/42hwZP0ZVC
+-----
+Europe Faces Dire Winter as #Nuclear Outages Deepen #Energy Crunch #energycrunch #power #natgas via ⁦@rachelmorison⁩ ⁦@JesperStarn⁩  https://t.co/Rm7E8IPUxm
+-----
+European Power Prices Could Spike in Spring Amid #Nuclear Woes - BNN https://t.co/RspsGE2HNR
+-----
+European Power Prices Could Spike in Spring Amid Nuclear Woes - Bloomberg https://t.co/e44yfMtmEr
+-----
+European power prices soar to records on French utility EDF's nuclear outages https://t.co/G80Pvoqj71 https://t.co/yz0Q7c1xlc
+-----
+European power prices jump after EDF cut its nuclear output target for a second time in a month, the latest sign that this winter’s energy crisis is far from over https://t.co/WGo3kXZYZe
+-----
+Power prices soar in Europe after France's nuclear giant slashes its output forecast, squeezing supplies https://t.co/Sbuy2Lr61H
+-----
+European power prices jump after EDF cut its nuclear output target for a second time in a month, the latest sign that this winter’s energy crisis is far from over https://t.co/Vw3ERkeObz via @markets
+-----
+EDF makes deep cuts to its forecast for French nuclear output next year, as a heavy maintenance and repair schedule causes lasting disruption to European power supplies https://t.co/VLp8NpWrhz
+-----
+Europe Faces Dire Winter as France's EDF Nuclear Outages Deepen the Energy Crunch https://t.co/AqbmIpS6Nl via @BloombergQuint
+-----
+--------------------------------
+
+
+Topic 9
+Sum(p_tw_d):  155.5529893747439
+--------------------------------
+Token                    Prob
+security                 0.03911
+large                    0.03543
+plant_europe             0.01610
+fire                     0.01564
+weapon                   0.01426
+large_nuclear            0.01242
+disaster                 0.01196
+zaporizhzhia             0.01127
+ukrainian                0.00920
+nuclear_weapon           0.00736
+conflict                 0.00736
+deploy                   0.00598
+conventional             0.00529
+belarus                  0.00529
+building                 0.00529
+shell                    0.00506
+protect                  0.00506
+zaporizhzhia_nuclear     0.00483
+npp                      0.00483
+catastrophe              0.00483
+--------------------------------
+Representative documents
+Russian forces seized the largest nuclear power plant in Europe after a building at the complex was set ablaze during intense fighting with Ukrainian defenders, Ukrainian authorities said https://t.co/40A6RDNIfB https://t.co/JzhYFmsqwD
+-----
+Russian forces have seized the largest #nuclear power plant in Europe after a building at the complex was set ablaze during intense fighting https://t.co/79PEVynYAg
+-----
+Zelensky: Europe must wake up now. The largest nuclear power plant in Europe is on fire. Right now, Russian tanks are firing at atomic blocks. These tanks are equipped with thermal imagers. So they know where they are shooting.
+-----
+Russian Political Scientist Sergey Mikheev: We Will Launch a Nuclear Strike on European Territory If a NATO Peacekeeping Contingent Is Formed or Deployed – Yes, Nuclear War! #Russia #Ukraine https://t.co/2WBpKoS6P7
+-----
+10 times larger than Chornobyl. A fire broke out in a training building outside the largest nuclear power plant in Europe in Ukrainian during intense fighting between Russian and Ukrainian forces. https://t.co/0ygdzNvKob
+-----
+Russian army is firing from all sides upon Zaporizhzhia NPP, the largest nuclear power plant in Europe. Fire has already broke out. If it blows up, it will be 10 times larger than Chornobyl! Russians must IMMEDIATELY cease the fire, allow firefighters, establish a security zone!
+-----
+#ICYMI: Russian Political Scientist Sergey Mikheev: We Will Launch a Nuclear Strike on European Territory If a NATO Peacekeeping Contingent Is Formed or Deployed – Yes, Nuclear War! #Russia #Ukraine https://t.co/vqEQ7UMOf3
+-----
+#BREAKING Ukraine FM @DmytroKuleba warns that "Russian army is firing from all sides upon Zaporizhzhia NPP, the largest nuclear power plant in Europe. Fire has already broken out. If it blows up, it'll be 10 times larger than Chornobyl! Russians must IMMEDIATELY cease the fire."
+-----
+Europe must wake up now! Europe's largest nuclear power plant is on fire. Right now, Russian tanks are firing upon nuclear units. These are tanks equipped with thermal imagers. That is, they know where they are shooting, they have been preparing for this!
+#Energodar #nuclearwar
+-----
+The risks posed by nuclear weapons are catastrophic as this video simulation of a war in Europe that goes nuclear shows. No one, not Putin not Biden, should be putting nuclear weapons on alert to coerce or threaten. We must eliminate them. https://t.co/oGVm3TZ7gG #nuclearban
+-----
+--------------------------------
+
+
+Topic 10
+Sum(p_tw_d):  153.66285028862882
+--------------------------------
+Token                    Prob
+ukraine                  0.07487
+war                      0.03941
+putin                    0.03153
+force                    0.02133
+safety                   0.01808
+european_nuclear         0.01669
+attack                   0.01599
+russias                  0.01484
+threat                   0.01205
+nato                     0.01205
+facility                 0.01205
+threaten                 0.01020
+ally                     0.01020
+chernobyl                0.00997
+fear                     0.00997
+military                 0.00974
+invasion                 0.00927
+control                  0.00927
+war_ukraine              0.00904
+th                       0.00858
+--------------------------------
+Representative documents
+European Nuclear Society Newsletter is out! - https://t.co/FIu24ED7aq https://t.co/2D0TdZ2OJI
+-----
+In "Back to Basics: The Nuclear Order, Arms Control, and Europe," @Meier_Oliver writes that the war in Ukraine will have long-lasting effects on the development of new European security structures. 
+
+His #ArmsControlToday feature article is available at https://t.co/yWaHBB4swp. https://t.co/ipFk7zdbrx
+-----
+Russia’s military attack against #Ukraine is a flagrant violation of international law &amp; UN Charter. 
+EU is extremely concerned over the nuclear threats &amp; nuclear safety, security &amp; safeguards risk caused by Russian invasion &amp; potential damage to any nuclear facility in Ukraine. https://t.co/9j4JHk5MbZ
+-----
+Continued close contact with President @ZelenskyyUa 
+
+The #EU stands firmly by #Ukraine’s side in efforts to alleviate humanitarian suffering inflicted by Russia’s aggression and ensure nuclear safety.
+-----
+I welcome @iaeaorg Board of Governors resolution condemning Russian aggression against Ukraine and demanding it to immediately cease all illegal activities threatening Ukraine’s nuclear facilities. World is united against Russia’s actions that threaten Ukraine and all of Europe.
+-----
+In "Back to Basics: The Nuclear Order, Arms Control, and Europe," @meier_oliver writes that the war in Ukraine will have long-lasting effects on how the world sees nuclear weapons and European security. Read his #ArmsControlToday feature article at https://t.co/yWaHBB4swp. https://t.co/0O6Dz0f1dR
+-----
+European Nuclear Society COP26 Newsletter - https://t.co/6fKqdZmTGf https://t.co/6WJ1bYuox3
+-----
+⚛️🎉🤩 EURATOM SUPPLY AGENCY IS A NEW ENS MEMBER
+
+Today we are glad to announce that @Euratom_supply Agency became our 30th Member. Great to see the ENS #community growing and cooperating together with the European top #nuclear #companies and #agencies.
+
+https://t.co/qgjgnJuiev
+-----
+The EU is proud to support the #IAEA. 
+
+@iaeaorg is indispensable for the non-proliferation of nuclear weapons, the development &amp; application of atomic energy for peaceful uses, technology transfer and in nuclear safeguards, safety &amp; security.
+
+Statement: https://t.co/zBLEkLKxSq https://t.co/rO166bjLmI
+-----
+Ukraine Nuclear Safety Is Major EU Concern - Bloomberg https://t.co/I3gEIgoVqh
+-----
+--------------------------------
+
+
+Topic 11
+Sum(p_tw_d):  118.07204952932256
+--------------------------------
+Token                    Prob
+german                   0.04928
+nuclearenergy            0.04219
+government               0.03049
+minister                 0.02310
+propose                  0.02279
+open                     0.02094
+austria                  0.01909
+smr                      0.01694
+position                 0.01170
+wrong                    0.01170
+opposition               0.01047
+letter                   0.00986
+legal                    0.00986
+challenge                0.00955
+politician               0.00862
+smr_thorium              0.00832
+luxembourg               0.00801
+thorium_nuclearenergy    0.00770
+energy_system            0.00739
+voice                    0.00739
+--------------------------------
+Representative documents
+#SriAgenda tomorrow | #Jan20 at 5pm CET 
+
+Update on the #EUTaxonomy and Implications for Investors: Gas, Nuclear and Agriculture "@FAIRRInitiative 
+https://t.co/7Y4YdcCES0 
+
+#sustainablefinance #sri #esg #greenfinance #responsibleinvestment @SRI_Natives @andytuit
+-----
+EU seeks to boost stockpile of iodine pills and #nuclear protective gear #auspol NO to #smr #thorium #NuclearEnergy #plutonium https://t.co/bSfAxe6z8z
+-----
+#SriAgenda tomorrow | #Jan20 at 5pm CET 
+
+Update on the #EUTaxonomy and Implications for Investors: Gas, Nuclear and Agriculture 
+
+#sustainablefinance #sri #esg #greenfinance #responsibleinvestment @SRI_Natives @andytuit https://t.co/eHxHNM1Alx
+-----
+EU seeks to boost stockpile of iodine pills and nuclear protective gear https://t.co/PQ14yH6RiY
+-----
+#SriAgenda today | #Jan20 at 5pm CET 
+
+Update on the #EUTaxonomy and Implications for Investors: Gas, Nuclear and Agriculture "@FAIRRInitiative w/ @IIGCCnews 
+
+#sustainablefinance #sri #esg #greenfinance #responsibleinvestment @SRI_Natives @andytuit https://t.co/HC6zdxOCCB
+-----
+Tomorrow at 4pm GMT, @FAIRRInitiative and IIGCC will be co-hosting a webinar on 'The EU Taxonomy and Implications for Investors: Gas, Nuclear and Agriculture'. Register here: https://t.co/SCtBx3I24e https://t.co/I4VfeakImt
+-----
+#SriAgenda | #Jan20 at 5pm CET 
+
+Update on the #EUTaxonomy and Implications for Investors: Gas, Nuclear and Agriculture "@FAIRRInitiative 
+w/ @AndreasHoepner @ArielBrunner 
+https://t.co/7Y4YdcCES0 
+@MariaLettini 
+
+#sustainablefinance #sri #esg @SRI_Natives @andytuit
+-----
+Austria, Luxembourg eye legal steps in EU nuclear row https://t.co/tQcmtkzBpO
+-----
+Austria, Luxembourg to take green label for #nuclear and gas to EU courts NO to #smr #thorium #NuclearEnergy #plutonium https://t.co/jFPqUyfDAG
+-----
+Austria gears up to fight EU 'green' #nuclear energy plan https://t.co/wS3S9eNNDl via @FRANCE24 NO to #smr #thorium #NuclearEnergy #plutonium
+-----
+--------------------------------
+
+
+Topic 12
+Sum(p_tw_d):  109.48764320549938
+--------------------------------
+Token                    Prob
+plan                     0.10692
+project                  0.05276
+rule                     0.03005
+label_gas                0.02725
+allow                    0.02131
+☢                        0.01782
+eu_plan                  0.01747
+nuclear_project          0.01677
+plan_label               0.01607
+financial                0.01398
+☢_️                      0.01328
+investment_label         0.01048
+deadline                 0.00839
+bank                     0.00839
+nuclear_investment       0.00734
+investment_green         0.00664
+investment_rule          0.00664
+climatechange            0.00664
+leak                     0.00594
+finish                   0.00559
+--------------------------------
+Representative documents
+#Europe Revisits #Nuclear Power as #Climate Deadlines Loom https://t.co/9gnA5yBL4q
+-----
+Europe revisits nuclear power as climate deadlines loom https://t.co/Z72ydwZnnc  @wionews
+-----
+Advisers to slam EU plan to label gas, nuclear investments as green - draft. With @JessopReuters https://t.co/2F3auZgjdl
+-----
+EU #SustainableFinance experts are clear: “#taxonomy-aligned” support to gas and nuclear is #greenwashing.😱
+
+To follow the science, financial institutions must exclude gas and nuclear from all sustainable/green products.☢️🏭
+
+https://t.co/f5pDPV7Ngj cc @EIB @EBRD
+-----
+NYT - Europe Revisits Nuclear Power as Climate Deadlines Loom https://t.co/1NE7pzYXqp
+-----
+EU Aims to Unveil Green Rules for Gas, Nuclear Projects Dec. 22 | Financial Post - https://t.co/f5ifQM36Nb #GoogleAlerts
+-----
+EU #SustainableFinance experts are clear: “#taxonomy-aligned” support to gas and nuclear is #greenwashing.😱 To follow the science, financial institutions must exclude gas and nuclear from all sustainable/green products☢️🏭 
+
+Our open letter with 92 CSOs⬇️
+https://t.co/GZh7cSTwPR https://t.co/RTIxuuXjJZ
+-----
+Advisers to slam EU plan to label gas, nuclear investments as green – draft https://t.co/kv0xtCZMrP
+-----
+BaselodeE: Europe Revisits Nuclear Power as Climate Deadlines Loom https://t.co/3Lk4EjnCPU #Uranium #ClimateChange #Nuclear #NuclearEnergy https://t.co/07afN1omCI
+-----
+Europe Revisits #Nuclear Power as Climate Deadlines Loom 
+
+https://t.co/Wr2JJ2dktj 
+
+via @nytimes
+-----
+--------------------------------
+
+
+Topic 13
+Sum(p_tw_d):  99.76723649540416
+--------------------------------
+Token                    Prob
+iran                     0.07783
+deal                     0.05918
+talk                     0.05878
+iran_nuclear             0.03364
+nuclear_deal             0.03081
+nuclear_talk             0.02594
+foreign                  0.01702
+tehran                   0.01500
+visit                    0.01378
+chief                    0.01257
+diplomat                 0.01216
+programme                0.01135
+negotiation              0.00973
+iranian                  0.00973
+revive                   0.00932
+envoy                    0.00851
+negotiator               0.00851
+return                   0.00811
+friday                   0.00811
+coordinator              0.00770
+--------------------------------
+Representative documents
+EU coordinator of nuclear talks to visit Iran -Iranian foreign ministry https://t.co/ZbfP1NkGtc
+-----
+Iran confirms visit by EU coordinator Enrique Mora, to find a solution to the stalled nuclear deal talks between Tehran and Washington https://t.co/Wym52M7DT0 https://t.co/RXoqci6WqU
+-----
+IRAN: NUCLEAR TALKS IN VIENNA WITH THE EU WERE CONSTRUCTIVE.
+-----
+#UPDATE Stalled negotiations over Iran's nuclear programme have been unblocked after fresh talks in Tehran, EU foreign policy chief Josep Borrell said on Friday, adding that he believed a final deal was within reach https://t.co/pDHhgtvxv5 https://t.co/efJoaL1Pyl
+-----
+Iran: Nuclear Talks 'A Few Steps' Ahead After EU Envoy Visit #OOTT
+-----
+A claim by @JosepBorrellF, European foreign policy chief, that EU envoy Enrique Mora had “unblocked” Iran nuclear talks sits uneasily with Washington’s expectations.
+https://t.co/J1MYJRieVh
+-----
+"Pause" needed in Iran nuclear talks, EU foreign policy chief says https://t.co/Y1KFljht0g
+-----
+#UPDATE The European Union's coordinator for talks between Iran and world powers over restoring a 2015 nuclear deal will visit Tehran this week, Iran's foreign ministry said Monday https://t.co/UiUKA0JhOW
+-----
+#UPDATE The European Union's coordinator for talks between Iran and world powers over restoring a frayed 2015 nuclear deal will visit Tehran this week, Iran's foreign ministry said Monday
+https://t.co/laJpVUct73
+-----
+#UPDATE Stalled negotiations over Iran's nuclear programme have been unblocked after fresh talks in Tehran, EU foreign policy chief Josep Borrell says, adding that he believes a final deal is within reach.
+
+"There is a perspective of reaching a final agreement" https://t.co/h8omzawpQj
+-----
+--------------------------------
+
+
+Topic 14
+Sum(p_tw_d):  91.72847078710203
+--------------------------------
+Token                    Prob
+small                    0.02420
+eastern                  0.02215
+poland                   0.01909
+company                  0.01840
+potential                0.01670
+🇷_🇺                      0.01636
+modular                  0.01500
+cooperation              0.01466
+small_modular            0.01431
+eastern_europe           0.01329
+modular_reactor          0.01295
+hungary                  0.01193
+czech                    0.01125
+smrs                     0.01125
+central                  0.01091
+deployment               0.01022
+republic                 0.00920
+czech_republic           0.00818
+service                  0.00784
+trade                    0.00716
+--------------------------------
+Representative documents
+Westinghouse Signs Strategic Partnerships with Slovenian Firms to Build AP1000® Reactors in Central and Eastern Europe
+https://t.co/GtwKwOMiQE
+-----
+@WECNuclear has signed MoUs with ten companies in the Czech Republic covering cooperation on the potential deployment of an AP1000 plant for the Dukovany unit 5 project as well as other potential AP1000 projects in Central Europe #nuclear https://t.co/wsSRNAb9Wk https://t.co/DKbdpp5Tif
+-----
+Westinghouse has signed memoranda of understanding with 7 companies in the Czech Republic. The MOUs cover potential deployment of an AP1000® plant for the Dukovany Unit 5 project as well as other potential AP1000 projects in Central Europe. $EU #uranium
+https://t.co/KS5VplDMNI
+-----
+We recently signed MOUs with 10 companies in #Poland to cover cooperation on the potential deployment of 6 plants for the Polish Nuclear Power Plant program and other potential AP1000® reactor projects in Central &amp; Eastern #Europe. https://t.co/6kuNR5IiAk
+-----
+@WECNuclear has signed memorandums of understanding with ten Polish companies for cooperation on the potential deployment of AP1000 #nuclear power plants in Poland and elsewhere in Central and Eastern Europe https://t.co/cpoc8n6x0V https://t.co/bljGMOFwzL
+-----
+StandardUranium: RT @StandardUranium: Can uranium hit its all-time high of $137 again? CEO @JonBey5 talks #uranium market action and EU taxonomy with KITCO's @MichelleMakori.
+
+https://t.co/xM3vI9FGvV $STND $STND.V $STTDF
+-----
+StandardUranium: Can uranium hit its all-time high of $137 again? CEO @JonBey5 talks #uranium market action and EU taxonomy with KITCO's @MichelleMakori.
+
+https://t.co/xM3vI9FGvV $STND $STND.V $STTDF
+-----
+@tractebel is to contribute to the development of France's Nuward small modular reactor project. The Belgian engineering firm will conduct studies for the completion of the conceptual design of "the first SMR in the European Union" #nuclear https://t.co/onzf4Ch57V https://t.co/Wh2geb8ric
+-----
+Westinghouse Electric has signed memorandums of understanding with three companies in Slovenia which cover cooperation on potential AP1000® plant projects across Central and Eastern Europe. $EU #uranium
+https://t.co/0YpaPknthp
+-----
+Tractebel is to contribute to the development of France's Nuward small modular reactor project. The Belgian engineering firm will conduct studies for the completion of the conceptual design of "the first SMR in the European Union". #nuclear #SMR #EU
+
+https://t.co/yA7y4uPpKR https://t.co/XULHIC2rIj
+-----
+--------------------------------
+
+
+Topic 15
+Sum(p_tw_d):  89.71414638234954
+--------------------------------
+Token                    Prob
+️                        0.12344
+🇺                        0.08054
+🇪                        0.08027
+🇪_🇺                      0.04650
+🇷                        0.03321
+⚛                        0.02934
+⚛_️                      0.02629
+🇩                        0.01965
+🇫                        0.01771
+🇩_🇪                      0.01716
+🇸                        0.01522
+🇦                        0.01439
+🇫_🇷                      0.01356
+🇱                        0.01246
+esg                      0.01218
+🇮                        0.01024
+🤠                        0.00941
+🇹                        0.00941
+⚡                        0.00913
+🐂                        0.00886
+--------------------------------
+Representative documents
+EU energy crisis splits in brief:
+-- EU action now: 🇫🇷🇪🇸🇬🇷🇷🇴🇨🇿
+-- Anglo-Saxon ETS to blame: 🇵🇱🇭🇺🇨🇿🇪🇸🇧🇬
+-- Need EU joint gas procurement: 🇮🇹🇪🇸
+-- Make nuclear green: 🇫🇷🇨🇿
+-- Relax, it will be over soon: 🇩🇪🇳🇱🇩🇰🇫🇮🇦🇹🇱🇺🇸🇪🇧🇪🇵🇹
+-----
+Eight new #nuclear reactors are on their way to #Europe. 🌞🏗️⚛️ Here’s where🗺️  #Uranium #CarbonFree 24/7 #CleanEnergy #NetZero #EnergyCrisis #NetZeroNeedsNuclear 🏄‍♂️ https://t.co/N1mDi99I0u
+-----
+There is much confusion about nuclear energy - sizeable minorities in Europe and the US believe it is produces moderate/high levels of carbon emissions
+
+🇪🇸 58% think so
+🇫🇷 40%
+🇮🇹 38%
+🇺🇸 36%
+🇩🇪 30%
+🇬🇧 28%
+🇩🇰 23%
+🇸🇪 23% https://t.co/5pisaDe6fV
+-----
+Led by @Nuklearia &amp; @Moms4G, we will join our fellow allies from across the world to demand..
+1. The continued operation of the German NPPs 
+2. A moratorium on premature nuclear plant closures across the EU
+
+Countries represented
+🇨🇦🇮🇪🇬🇧🇰🇪🇸🇩🇺🇸🇫🇷🇳🇱🇮🇹🇪🇪🇩🇰🇫🇮🇲🇽
+https://t.co/3aAsR0wpWY
+-----
+The #Netherlands' CDA Party advances action plan to build a fleet of small modular #Nuclear reactors to achieve #NetZero and reduce dependence on #FossilFuels 🌞⚛️🏗️🤠 #Uranium #CarbonFree 24/7 #CleanEnergy #EnergyTransition #EnergySecurity #EU #ESG 🇳🇱🏄‍♂️
+https://t.co/47usQ6t4sc
+-----
+#EU Commission is going to stick to labelling gas and #nuclear power as "green" in its taxonomy for investors 🌲⚛️🌞💰⛏️🤠 #Uranium #CarbonFree 24/7 #CleanEnergy #NetZero #Europe #ESG 🌊🏄‍♀️  https://t.co/VJkdTIxwjK
+-----
+Yee-Haw!🤠🐂 #Nuclear power will be integrated into European taxonomy in the coming days says French Finance Minister Bruno Le Maire🌳⚛️  as a low-carbon #energy essential to achieve the climate objectives of 2050🌞 #Uranium #CarbonFree #NetZero #ESG 🏄‍♂️ https://t.co/BjIYC36uyC https://t.co/HpLLOx7FKs
+-----
+When you favored #nuclear phase-out over #coal &amp; #gas phase-out, and in 2021 your power sector is by far the biggest #CO2 emitter in Europe.
+
+➡️ 230 million tons in 1 year.
+➡️ As much as 🇵🇹+🇸🇰+🇫🇮+🇭🇺+🇮🇪+🇧🇪+🇷🇴+🇧🇬+🇬🇷+🇨🇵+🇳🇱+🇪🇦+🇨🇿 combined.
+
+#Energiewende https://t.co/3KTSJXYvUu
+-----
+The tide is definitely turning in favour for #nuclear at 🇪🇺 level as during the last meeting of EU energy ministers, 🇧🇬🇭🇷🇨🇿🇫🇮🇫🇷🇭🇺🇳🇱🇵🇱🇷🇴🇸🇰🇸🇪 underlined the important role nuclear has to play in the EU's energy transition &amp; called on @EU_Commission to include nuclear in #EUTaxonomy https://t.co/dLsSbYcegv
+-----
+Support in #Europe for going "all out" on building new #Nuclear is exceptionally strong according to latest polling.🌞⚛️🏗️🤠 Same for extending the operation of the current fleet of reactors where 55% of Germans were in agreement and only 26% opposed.😯 #Uranium #EnergySecurity🏄‍♂️ https://t.co/byAolUrqpR
+-----
+--------------------------------
+
+
+Topic 16
+Sum(p_tw_d):  88.87444469436684
+--------------------------------
+Token                    Prob
+role                     0.03578
+billion                  0.03189
+commissioner             0.02762
+€                        0.02450
+low-carbon               0.02178
+play                     0.01945
+hydrogen                 0.01828
+restart                  0.01828
+mix                      0.01789
+towards                  0.01789
+power_eu                 0.01750
+station                  0.01673
+power_station            0.01284
+amid                     0.01245
+next_year                0.01206
+reduction                0.01128
+recognise                0.01089
+energy_mix               0.01089
+euro                     0.01050
+ten                      0.01050
+--------------------------------
+Representative documents
+"Elon Musk thinks that Europe should restart its dormant nuclear power stations and called it an obvious choice in a Sunday evening tweet."
+https://t.co/dkXG5eIofh #NuclearEnergy #uranium
+-----
+Musk tweeted on Sunday evening that it's "extremely obvious" that Europe should restart dormant nuclear power plants and boost the output of those that are operational.
+
+https://t.co/2LzfIQYsmW
+-----
+Technoking Elon Musk thinks that Europe should restart its dormant nuclear power stations and called it an obvious choice in a Sunday evening tweet.
+
+Find out more at https://t.co/mAnLoUTKUX 🚀 
+#Engineering https://t.co/mgd7c7Wt1T
+-----
+Elon Musk says Europe should restart its dormant nuclear power stations amid fears the Russian invasion of Ukraine will trigger a gas-supply shortage
+https://t.co/1Yd65wpaPL
+-----
+Elon Musk says Europe should restart its dormant nuclear power stations amid fears the Russian invasion of Ukraine will trigger a gas-supply shortage https://t.co/5elrRgkCRV 
+
+ANA: https://t.co/oH548QoXGd
+-----
+»Musk tweeted on Sunday evening that it's "extremely obvious" that Europe should restart dormant nuclear power plants and boost the output of those that are operational.  "This is #critical to national and international security," wrote the CEO of Tesla.«
+
+https://t.co/u5Zd0dTrVi
+-----
+#ICYMI - The European Union will need to invest €500 billion in new generation #nuclear power stations from now until 2050, the bloc’s internal market commissioner @ThierryBreton said.
+https://t.co/kUyl9uCXob
+-----
+Elon Musk calls for Europe to restart its nuclear power stations: 'critical to international security' 
+https://t.co/hwT7MiaunY
+-----
+Investment in #nuclear power totalling around EUR500 billion by 2050 will be needed if the European Union’s goal of carbon neutrality is to be hit, the European Commissioner for the Internal Market Thierry Breton has said https://t.co/h11uPXDQtV https://t.co/GFh8U71dz6
+-----
+Hopefully, it is now extremely obvious that Europe should restart dormant nuclear power stations and increase power output of existing ones. 
+
+This is *critical* to national and international security.
+-----
+--------------------------------
+
+
+Topic 17
+Sum(p_tw_d):  82.37456118164519
+--------------------------------
+Token                    Prob
+parliament               0.03061
+full                     0.02980
+vote                     0.02296
+coal_nuclear             0.02054
+embargo                  0.01893
+european_parliament      0.01772
+meps                     0.01571
+view                     0.01410
+oil_coal                 0.01410
+immediate                0.01410
+block                    0.01208
+full_embargo             0.01007
+embargo_russian          0.01007
+fuel_gas                 0.00886
+majority                 0.00846
+adopt                    0.00846
+call_eu                  0.00805
+russian_import           0.00805
+import_oil               0.00765
+immediate_full           0.00765
+--------------------------------
+Representative documents
+European Parliament calls for immediate full embargo on Russian imports of oil, coal, nuclear fuel &amp; gas in vote with 513 MEPs in favour.
+11/13 Irish MEPs voted in favour including the Left's Ming Flanagan and Chris MacManus (SF)
+Mick Wallace voted against; Clare Daly was absent https://t.co/GWs2DFVMDf
+-----
+The time for immediate further sanctions – an embargo on Russian oil, coal and nuclear fuel - is now!  
+
+Gas embargo - ASAP.  
+
+The EU cannot finance the genocide implemented by Russia! 
+
+#EPP4EU 
+
+🔗 https://t.co/asXgJDj566 https://t.co/gwg7Iqdkgu
+-----
+The time for immediate further sanctions – an embargo on Russian oil, coal and nuclear fuel - is now! Gas embargo - ASAP. 
+
+The EU cannot finance the genocide implemented by Russia! Sanctions shall only be lifted when the last occupant leaves Ukrainian territory.  
+@RJukneviciene https://t.co/RPIVvfsv0w
+-----
+The European Parliament adopted a resolution calling for an immediate full embargo on Russian imports of #oil, #coal, nuclear fuel, &amp; #gas and to completely abandon Nord Stream 1 &amp; 2.  
+
+The EU cannot finance the genocide implemented by Russia! 
+
+#EPP4EU https://t.co/RaqzHILBLO
+-----
+Overwhelming European Parliament majority calls for an immediate and full embargo on Russian imports of oil, coal, nuclear fuel and gas. #EPlenary #StandWithUkraine 
+
+413 votes for, 93 against, 46 absentions. https://t.co/5O6p4amJjn
+-----
+European Parliament just voted for an immediate full embargo on imports of oil, coal, nuclear fuel and gas from Russia.
+
+🟢 413 in favour
+🟡 46 abstentions 
+🔴 93 against
+-----
+European Parliament adopts resolution calling for full embargo on Russian imports of oil, coal, nuclear fuel and gas. (not decisive, only a recommendation)
+-----
+The time for immediate further sanctions - embargo on Russian oil, coal and nuclear fuel- is now! Gas embargo - ASAP. EU cannot finance the genocide implemented by Russia! 
+#Sanctions shall only be lifted when the last occupant leaves Ukrainian territory.
+-----
+Today, 7 April, European Parliament demands full embargo on Russian imports of oil, coal, nuclear fuel and gas
+
+with 513 votes to 22 &amp; 19 abstentions MEPs call this full embargo
++ a plan to ensure the EU’s security of energy supply https://t.co/dLy8cwpwUs
+-----
+BREAKING: MEPs have voted in favour of our Greens/EFA calls for an immediate full embargo on Russian imports of gas, oil, coal, and nuclear fuel.
+
+Every cent going to #Putin's bloody regime is a cent too much. The EU must show support and solidarity with #Ukraine! https://t.co/63E9nlStLV
+-----
+--------------------------------
+
+
+Topic 18
+Sum(p_tw_d):  79.4893409479339
+--------------------------------
+Token                    Prob
+russian                  0.18651
+russia                   0.16944
+fuel                     0.12637
+supply                   0.06501
+import                   0.06461
+oil                      0.06298
+sanction                 0.04348
+nuclear_fuel             0.03738
+break                    0.02926
+ban                      0.02438
+oil_gas                  0.01950
+russian_oil              0.01382
+rosatom                  0.01382
+russian_nuclear          0.01178
+gas_oil                  0.00935
+gas_europe               0.00853
+russian_energy           0.00731
+europe_could             0.00650
+u_european               0.00610
+invade                   0.00569
+--------------------------------
+Representative documents
+#mep @SincicMEP "The West is quick to ban Russian cats and vodka, to expel Russian Paralympians. But when it comes to serious sanctions, it continues to finance Russia with the buying of oil, gas and nuclear energy" https://t.co/MYQqTYoaVf
+-----
+From Bloomerg
+
+Europe’s Other Energy Problem: Relying on Russian Nuclear Fuel 
+
+Market share of Russian Rosatom in (EU countries + Ukraine) nuclear fuel supply is 40%
+
+&gt; Rosatom is not on the list of sanctions in US or EU https://t.co/kLOynp5Qav
+-----
+EU slaps fourth round of sanctions on Russia, but Europeans still can buy Russian oil, gas and nuclear fuel. With @FabianZuleeg @epc_eu #Ukraine #sanctions https://t.co/PHleDQ1zeD
+-----
+The other great European energy dependency: Russian nuclear fuel https://t.co/GfU8u5ZgPn
+-----
+@quakes99 @SenJohnBarrasso  EU banning Russian #uranium first. @Liz_Cheney @Sen_JoeManchin
+-----
+Breaking Uranium- If U.S. bans Russian Energy imports today, Russia could ban U.S. Uranium &amp; Enrichment services on their end as well as Gas to Europe. #uranium #Commodities #oil #Russian
+-----
+Can Europe survive without Russian energy? @uofsandiego 
+
+#Kyiv #Ukraine #Russia #UkraineRussiaWar #Putin #UkraineWar #Russian #nuclear https://t.co/kE006pNuaP
+-----
+We call upon the EU member states, USA and other countries cooperating with russia in this sector to stop all cooperation with Rosatom and its subsidiaries, sanction the company and its leadership, as well as ban imports of russian nuclear fuel.
+
+Read more
+https://t.co/4PaHjOiWfD
+-----
+TVEL, the russian nuclear fuel manufacturer, which is owned by Rosatom, supplies the nuclear fuel to the most of VVER reactors in the EU. Rosatom also owns numerous production facilities across the EU and this expansion should be stopped.
+-----
+Does European Aviation Safety Agency allow nuclear fuel shipment by aircraft? Also EU allows import of nuclear fuel from Russia while it sanctions Russia over Ukraine invasion? What a hypocritical mess. https://t.co/PgLrfeok1f
+-----
+--------------------------------
+
+
+Topic 19
+Sum(p_tw_d):  78.74278253268388
+--------------------------------
+Token                    Prob
+independence             0.01519
+energy_independence      0.01215
+dependence_russian       0.01085
+middle                   0.00955
+south                    0.00911
+fukushima                0.00911
+receive                  0.00825
+promise                  0.00738
+power_nuclear            0.00738
+lobbying                 0.00608
+gas_use                  0.00608
+power_generation         0.00564
+korea                    0.00564
+energy_production        0.00564
+low_emission             0.00477
+wean                     0.00477
+clash                    0.00477
+wasnt                    0.00434
+false                    0.00434
+survive                  0.00434
+--------------------------------
+Representative documents
+#Europe Is in the Middle of a Messy #Nuclear Slowdown: https://t.co/1ManmwwzyK
+-----
+Europe is in the middle of a messy nuclear showdown https://t.co/zZ2C8FQhKB
+-----
+‘Russian doll’ gas and nuclear lobbying threatens EU energy independence – new research https://t.co/7CT3NCE08F
+-----
+‘Russian doll’ gas and nuclear lobbying threatens EU energy independence – new research, via @GreenpeaceEU https://t.co/mmz7QbtyPN
+-----
+#Czechia urges #EU to award #nuclear energy ‘enabling’ status https://t.co/Us7N0dUhVr
+-----
+@iaeaorg @HenryK_B_ ‘#Russiandoll’ gas and nuclear lobbying threatens EU energy independence – new research, via @GreenpeaceEU https://t.co/lCYgJXDkCd
+-----
+France “no longer wants to adapt to German ideas in important fields of the future like energy and climate” 
+
+Macron’s nuclear plans illustrate Franco-German rift in EU energy policy – op-ed @faznet 
+
+https://t.co/IQcCyZe9Tr https://t.co/TIqil7CA2X
+-----
+‘Russian doll’ gas and nuclear lobbying threatens EU energy independence – new research - Greenpeace European Unit https://t.co/TKWg4v6d36
+-----
+fm. article: 
+"France no longer wants to adapt to German ideas in important fields of the future like energy and climate”
+
+🙌🙌🙌
+
+Macron’s nuclear plans illustrate Franco-German rift in EU energy policy – op-ed 
+
+https://t.co/irbo2nrJvG via @cleanenergywire
+-----
+High natural gas prices could lead to rethink on keeping EU #NuclearPower plants running...
+
+Or we could build more economical #Gen4Nuclear plants like IMSR, which are 50% more efficient than conventional nuclear.
+https://t.co/d9m56vnnk2
+-----
+--------------------------------
+
+
+Topic 20
+Sum(p_tw_d):  75.69318758191976
+--------------------------------
+Token                    Prob
+research                 0.02460
+finland                  0.01793
+understand               0.01626
+sput                     0.01626
+conference               0.01543
+climate_goal             0.01334
+epr                      0.01168
+water                    0.01126
+etf                      0.01126
+cold                     0.01084
+march                    0.01001
+launch                   0.00959
+▶                        0.00751
+urnm                     0.00709
+q                        0.00667
+▶_️                      0.00667
+team                     0.00626
+olkiluoto                0.00626
+phaseout                 0.00626
+research_reactor         0.00626
+--------------------------------
+Representative documents
+📣⚛️🔬 EUROPEAN RESEARCH REACTOR CONFERENCE (RRFM) 2022
+
+📝 Upload your #abstracts by 18 March 2022! 
+
+📌🇭🇺 European Research Reactor Conference (#RRFM) 2022 // 6 - 10 June 2022 in #Budapest, #Hungary. 
+
+▶️ Presentation Portal: https://t.co/eN5qZTPJIE
+🖥️ https://t.co/VEKV1kGQFQ https://t.co/EydsYxCKWi
+-----
+📣⚛️🔬 EUROPEAN RESEARCH REACTOR CONFERENCE #RRFM 2022 - CALL FOR PAPERS 
+
+📌🇭🇺 14 - 17 June 2022 #Budapest, #Hungary. 
+
+📝✅ Be a part of it! Upload your #abstracts by 18 March 2022. 
+
+▶️ Presentation Portal https://t.co/eN5qZTPJIE
+
+▶️ Call for Papers: https://t.co/RzqGmSwSPv https://t.co/4GYrDM3uhi
+-----
+@HunterWorldly No, not Physical Uranium Trust #SPUT... its the Sprott #Uranium Miners ETF $URNM that is now available in Europe. https://t.co/JMPqzZsJNL
+-----
+@SlawomirDebski "Its is not #Germany that is antinuclear, it is its elites."
+"...elites are willing to sacrifice European security, climate goals, German forests,... all to indulge in their romantic nuclear phaseout journey, which the #German public doesn't really understand or support any more" https://t.co/0nnaDMyceC
+-----
+German elites are willing to sacrifice European security, climate goals, German forests, and cheaper energy all to indulge in their romantic nuclear phaseout journey, which the German public doesn't really understand or support any more:
+
+https://t.co/Eil7UuIvfy
+-----
+📣⚛️🇭🇺 CALL FOR PAPERS - European Research Reactor Conference (#RRFM) 2022 // 6-10 June 2022 in #Budapest, #Hungary. 
+
+📝⚛️ Upload your  #abstracts by 18 March 2022. There is still one month left!
+
+▶️ Presentation Portal https://t.co/eN5qZTPJIE
+▶️ Website: https://t.co/IszUB8Sn8F https://t.co/wvis2nVy8o
+-----
+@gurgavin "Its is not #Germany that is antinuclear, it is its elites"
+"..willing to sacrifice European security, climate goals, German forests, &amp; cheaper energy all to indulge in their romantic nuclear phaseout journey, which the German public doesn't really understand or support any more" https://t.co/tc11FvjhH0
+-----
+Newly launched Global X #Uranium UCITS ETF has begun trading in London, tickers $URNU in USD, $URNG in GBP🇬🇧 &amp; in Germany $URNU in Euros🇩🇪 Fact sheet shows eligible investment in 11 European countries - starting AUM just US$1.3M seed🌱 set to grow.💰🌳🤠🐂 https://t.co/1S8ZlIRWaO https://t.co/ns7DpB425i
+-----
+@NetZeroWatch "Its is not #Germany that is antinuclear, it is its elites"
+"German elites are willing to sacrifice European security, climate goals, German forests...all to indulge in their romantic nuclear phaseout journey, which the German public doesn't really understand or support any more" https://t.co/LZDQEqrZd7
+-----
+Newly launched Global X #Uranium UCITS ETF has begun trading in London, tickers $URNU in USD, $URNG in GBP🇬🇧 &amp; in Germany $URNU in Euros🇩🇪 Fact sheet shows eligible investment in 11 European countries🇪🇺 - starting AUM of US$1.3M seed🌱 set to grow.💰🌳🤠🐂 https://t.co/1S8ZlIRWaO
+-----
+--------------------------------
+
+
+Topic 21
+Sum(p_tw_d):  69.35427870108352
+--------------------------------
+Token                    Prob
+natural                  0.11515
+natural_gas              0.11111
+finance                  0.08586
+sustainable_finance      0.03737
+stopfakegreen            0.03232
+finance_taxonomy         0.02374
+eu_sustainable           0.01818
+nuclear_fossil           0.01818
+green_finance            0.01768
+finally                  0.01616
+decarbonization          0.01414
+gas_eu                   0.01364
+moneyforchange           0.01162
+activist                 0.01061
+vonderleyen              0.01010
+🚨                        0.00909
+protest                  0.00859
+admit                    0.00808
+include_eutaxonomy       0.00808
+⬆_️                      0.00758
+--------------------------------
+Representative documents
+EU Finally Admits Natural Gas And Nuclear Are Key To Decarbonization https://t.co/d1GMmpkAyz
+-----
+The board of the Nuclear Physics Division of the European Physical Society is seeking candidates to host the 2024 edition of the Conference on Nuclear Physics in Astrophysics (NPA2024). https://t.co/ApHQd2N3eO https://t.co/UPO4Ihocdn
+-----
+The EU Finally Admits Natural Gas And Nuclear Are Key To Decarbonization via @forbes https://t.co/2o14UtU2fi
+-----
+The board of the Nuclear Physics Division of the European Physical Society is seeking candidates to host the second edition of the Applied Nuclear Physics Conference, after the successful first edition held in Prague in September 2021. https://t.co/B7djFtTLcW https://t.co/acAjkl2kKF
+-----
+Today outside EU Commission HQ
+
+Youth climate activists protesting against the gigantic greenwashing in the #EUTaxonomy
+
+Gas and nuclear are not green! 
+
+#StopFakeGreen #NotOurTaxonomy @GreensEFA  @Fridays4future https://t.co/q5lGOi4XrD
+-----
+Happening NOW outside EU Commission HQ
+
+Youth climate activists protesting against the gigantic greenwashing in the #EUTaxonomy
+
+Gas and nuclear are not green! 
+
+#StopFakeGreen #NotOurTaxonomy https://t.co/DGxIXEDc3L
+-----
+🚨 BREAKING 🦖
+
+'Taxonosaurus' is stomping into Brussels to stop the @EU_Commission from labelling fossil gas and nuclear energy as green in the #EUTaxonomy
+
+Don’t lead us to extinction!! 🦖☄️
+
+#MoneyForChange #StopFakeGreen
+https://t.co/3GrNhSfp4N
+-----
+#ElectricVehicles revolution on hold
+#ClimateCrisis on hold 
+#germany screwed #EU screwed 
+#EnergyIndependence is everything 
+
+#oil #coal #natgas #uranium ⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️
+
+You Go Woke - You Go Broke @GreenpeaceEU @Greenpeace @GretaThunberg @GermanyUN @elonmusk @joerogan https://t.co/sDR4xkpGvi
+-----
+🚨 BREAKING 🦖
+ 
+“Taxonosaurus” is stomping into Brussels to stop the @EU_Commission from labelling fossil gas and nuclear energy as green in the EU Taxonomy https://t.co/xPHzdP9Dvo
+ 
+Don’t lead us to extinction!! 🦖☄️
+#MoneyForChange #StopFakeGreen #EUtaxonomy https://t.co/72ngE7do4t
+-----
+First,  the @EU_Commission labels burning trees as sustainable in the #EUTaxonomy, and now they do the same with gas and nuclear?? - allowing  polluters to continue wrecking the planet. @Europarl_EN  #StopFakeGreen now! #MoneyForChange
+https://t.co/0KHQI1zUn9
+-----
+--------------------------------
+
+
+Topic 22
+Sum(p_tw_d):  65.06289527699833
+--------------------------------
+Token                    Prob
+usa                      0.01975
+sweden                   0.01877
+event                    0.01580
+utility                  0.01481
+path                     0.01086
+renaissance              0.01037
+uo                       0.00889
+inventory                0.00642
+import_russia            0.00642
+aid                      0.00593
+framatome                0.00593
+energy_gas               0.00593
+so-called                0.00593
+fill                     0.00543
+nuclear_renaissance      0.00543
+revise                   0.00543
+ukrainerussiawar         0.00494
+gazprom                  0.00494
+uranium_import           0.00444
+tension                  0.00444
+--------------------------------
+Representative documents
+@TeslaLarry @elonmusk That does not matter because the Uranium needed is not usable for the required reactors in Europe
+
+For the operators of so-called VVER reactors, Russia is even the only supplier of custom-made hexagonal fuel rods
+https://t.co/44moAGRjWR
+-----
+Framatome Bulgaria, a wholly owned subsidiary of Framatome, is focused on supporting the Kozloduy Nuclear Power Plant and reinforcing Framatome's presence in Central Europe.
+#Nuclear https://t.co/xJdOh0US5H https://t.co/ojlEreFhCY
+-----
+France’s Framatome has announced the launch of Framatome Bulgaria, a wholly owned subsidiary of Framatome, focused on supporting Bulgaria’s Kozloduy NPP and reinforcing its presence in Central Europe. #Nuclear via @neimagazine https://t.co/Higu3QNJTY https://t.co/DXp2VPNcye
+-----
+4) To pivot away from #Russia's #uranium requires other enrichment plants in #USA &amp; #EU to increase output ASAP.🏭 They've been in low demand with excess SWU capacity that's led to underfeeding = large secondary U supply⛏️ that's helped reduce the huge #Nuclear fuel deficit⚛️👇5 https://t.co/LCkWU4HNjM
+-----
+4) A US/EU ban on #Russia's #uranium would require other enrichment plants in #USA &amp; #EU to increase output ASAP.🏭 They've been in low demand, running with excess SWU capacity that's led to underfeeding = large secondary U supply⛏️ that's reduced huge #Nuclear fuel deficit.⚛️👇5 https://t.co/kLURrJHW4d
+-----
+@elonmusk Russia is the ONLY supplier for WWER reactors
+
+For the operators of so-called WWER reactors, Russia is even the only supplier of custom-made hexagonal fuel rods. The ESA considers the EU to be "significantly vulnerable" in this respect in particular
+https://t.co/44moAGRjWR
+-----
+The Russian state-owned gas corporation, Gazprom, has funded environmental organisations which have advocated for the abandonment of nuclear power on the European continent. 
+https://t.co/sXzMhimZTI
+-----
+2) Both #USA &amp; #EU rely on importing #Russia's #Uranium to provide about 20% of annual #Nuclear fuel requirements for their fleets of reactors, the 2 largest fleets in the world.⚛️ Reactor operators are now trying to lock in alternate fuel supply ASAP to fill that 20% gap.🛒 👇3 https://t.co/7KA7Mr9PYe
+-----
+Power politics among member states led to a revised #EUtaxonomy, which labels gas and nuclear energy as green.
+
+🇪🇺 Is there a way back for the EU?
+🇬🇧 Will the UK go down a similar path?
+
+Join our event with @e3g on 23 Feb to learn more, open to all!
+
+https://t.co/uZwgxcQQ9G https://t.co/Iup506OCT8
+-----
+2) Both #USA &amp; #EU rely on importing #Russia's #Uranium to provide about 20% of annual #Nuclear fuel requirements for their fleets of reactors, the 2 largest fleets in the world.⚛️ A ban would force operators to find alternate sources ASAP to fill the resulting supply gap.🛒 👇3 https://t.co/G5NSSZuO12
+-----
+--------------------------------
+
+
+Topic 23
+Sum(p_tw_d):  58.94500597957965
+--------------------------------
+Token                    Prob
+uranium                  0.35143
+stock                    0.02566
+uranium_nuclear          0.01790
+mining                   0.01313
+kazakhstan               0.01193
+commodity                0.01193
+canada                   0.01134
+russian_uranium          0.01014
+uranium_eu               0.00955
+australia                0.00955
+gold                     0.00955
+kap                      0.00895
+break_eu                 0.00835
+enrichment               0.00835
+uranium_stock            0.00835
+trading                  0.00835
+🚀                        0.00776
+uranium_mining           0.00776
+inflation                0.00716
+friend                   0.00597
+--------------------------------
+Representative documents
+What to expect from #uranium #markets today?
+Thoughts?🟥🟨🟩
+$dnn $ccj $uuuu $uec $uex $nxe $kap $bmn $glo $gxu $fcu $fuu $cvv $fmc $syh $find  $urg $uroy $u.un $u.u
+#uraniumsqueeze #stocks #finance #portfolio #commodities #metals #exploration #mining #EU #US #Canada #Australia
+-----
+#StockMarket currently.🚨🥷
+
+#stocks #markets #finance #economy #stockmarketcrash #inflation #fomc #RussiaUkraineConflict #vix #commodities #gold #silver #copper #oil #uranium #gas #geopolitics #politics #dollar #euro #US #Asia #Europe #Canada #Australia #Africa https://t.co/rbJvzpYQd3
+-----
+Good morning to my European friends, good night to my American friends and a pleasant afternoon to my Australian friends.
+
+#uranium #gold #silver #oil #copper #stocks #markets #exploration #mining #finance #portfolio
+-----
+Who will benefit from US and EU #uranium #nuclear sanctions? #AthabascanBasin $ccj $uuuu $uec $urg $dnn $nxe $uex.to $encuf $fcuuf $glo.to $mga.to https://t.co/yfyaoojx5i
+-----
+Stock market in May 2022.😂😂
+
+#markets #stocks #finance #recession  #Commodities  #gold #silver #copper #oil #uranium #gas #energy #geopolitics #Dollar #euro #Europe #US #Asia #RussiaUkraineWar #Canada #Japan https://t.co/VumUiMFydL
+-----
+Premarket in #uranium stocks loves EU green taxonomy 💚. We could see a very strong trading day 🚀📈🚦🔥
+$dnn $urg $nxe $uec $ura $uuuu $uroy
+#uraniumsqueeze #nuclearenergy #stocks #markets #portfolio https://t.co/se9ecQeD9R
+-----
+Uranium- Energy commodities continue their parabolic run Gas breaking 1000% yoy now in EU. U.S. Uranium is on the radar with the U.S. government now. Looking to see Uranium break $52 on the ask soon.  #uranium #Commodities  #stockmarketcrash #stocks #RussiaUkraine https://t.co/yErxilnuR0
+-----
+From where will #nuclear utilities get #uranium for 2025-2028 period?
+#Russia? #Kazakhstan? #USA?
+#Europe?
+Not quite,  big chunk of it  will come from #Africa 
+
+@GoviExUranium @AtomicCorp @Paladin_Energy @BannermanEnergy
+$gxu $glo $bmn $pdn #uraniumsqueeze #mining #exploration
+-----
+Breaking Uranium- EU announces new sanctions on Russia EXCLUDING Uranium. Will the U.S. sanction Enriched Uranium? https://t.co/UMpMDRmaFM #uranium #russia #sanctions #ukraine
+-----
+Breaking Uranium! The Russian Uranium ban bill added a 13th cosponsor! Both Dem &amp; Rep.Will EU beat the U.S. to the ban of Russian Uranium first? #uranium #commodities #stocks #russia #oil https://t.co/YS2c99I9Yk
+-----
+--------------------------------
+
+
+Topic 24
+Sum(p_tw_d):  37.02431873686376
+--------------------------------
+Token                    Prob
+grid                     0.06497
+mep                      0.04143
+half                     0.03296
+france_nuclear           0.02072
+alliance                 0.01883
+european_grid            0.01695
+nearly                   0.01224
+🗣                        0.01224
+conversation             0.01224
+nuclear_debate           0.01130
+poll                     0.01130
+offline                  0.01130
+mark                     0.00942
+eplenary                 0.00942
+bad_energy               0.00847
+concerned                0.00847
+medicine                 0.00753
+strain                   0.00753
+ecr                      0.00753
+ecr_mep                  0.00753
+--------------------------------
+Representative documents
+Nearly half of France's nuclear reactors taken offline, adding to electricity demand on European grid https://t.co/jWUxYVzLW5
+-----
+Nearly half of France nuclear off line for maintenance...causing greater strain on the EU power grid...
+
+https://t.co/xSgY8X95lU
+-----
+Germany is set to close almost half of its nuclear power capacity before the end of the year, putting further strain on European grids already coping with one of the worst energy crunches in the region’s history.
+
+https://t.co/BwnH9EHmyx
+-----
+Half of France's #nuclear reactors taken offline, adding to electricity demand on European grid  BO to #smr #thorium #NuclearEneerfy #plutonium https://t.co/5Xz9iC4pNw
+-----
+'Evolution' in EU nuclear debate
+European industry body Foratom is hopeful that a new conversation around nuclear energy will bring the policy framework needed for it to make a major contribution to 2030 energy targets, a Moody's webinar heard.
+
+https://t.co/SmwBxWgwSP https://t.co/Ro6xMWUvgV
+-----
+European industry body @FORATOM is hopeful that a new conversation around #nuclear energy in light of the continent's gas crisis will bring the policy framework needed for it to make a major contribution to 2030 energy targets, a Moody's webinar heard https://t.co/CkfykF826y https://t.co/ZIB5iQaNiB
+-----
+Lobbyists and an alliance of some EU governments push gas and nuclear in a sustainable investing guide. Scientific experts are “deeply concerned.” Post by @stellalevantesi
+https://t.co/uMsdloprKp
+-----
+#Germany is set to close almost half of its #nuclear power capacity before the end of the year, putting further strain on European grids already coping with one of the worst energy crunches in the region’s history https://t.co/FO4PcXlefc via @business
+-----
+Germany is set to close almost half of its nuclear power capacity before the end of the year, putting further strain on European grids already coping with one of the worst energy crunches in the region’s history
+
+Even Bloomberg Green wonders WHY
+
+https://t.co/R1gDtrgERk
+-----
+@patfrr @MarcusErve @guyverhofstadt @Transatomic @LeoDiCaprio @dontnuke @dontlookupfilm @GhostPanther Uranium hexafluoride, containing fissile material 233UF  volatilized from the molten salt and crystallized on filter material. A criticality accident could have spread the contamination over several kilometers.
+#MSR #nuclear #dontnuketheclimate #falsesolutions
+#EUTaxonomy 
+3/
+-----
+--------------------------------
+
+
+Topic 25
+Sum(p_tw_d):  30.154882362561096
+--------------------------------
+Token                    Prob
+🇧                        0.08971
+🇬                        0.07297
+🇬_🇧                      0.05981
+fusion                   0.04665
+id                       0.03708
+nuclear_fusion           0.02990
+scientist                0.02871
+gen                      0.02512
+greendeal                0.01794
+iii                      0.01675
+energiewende             0.01675
+fitfor                   0.01675
+gen_iii                  0.01555
+jet                      0.01555
+gws                      0.01435
+blackout                 0.01316
+landmark                 0.01196
+breakthrough             0.01077
+invest_billion           0.00957
+fusion_energy            0.00957
+--------------------------------
+Representative documents
+European scientists in ‘landmark’ nuclear fusion breakthrough https://t.co/aSfbsBEJvk
+-----
+European scientists in ‘landmark’ nuclear fusion breakthrough
+
+https://t.co/F9Da83hTPK
+
+#NuclearFusion #NuclearEnergy
+-----
+European scientists make ‘landmark’ nuclear fusion breakthrough https://t.co/oe7KQTnqDk
+-----
+@ArdieVeritas @Miss_Pellin @HenryK_B_ @RoyceSouther @ellymelly #Servicetweet
+#FakeFacts #BullshitScience directly paid by #FCKNuclaerlobby #FCKAtomlobby
+Europe invested $41 billion for 24.6 GWs of new wind capacity during 2021. Georgia Power is spending $34 billion for 2.5 GWs of new nuclear. who invested better? 
+https://t.co/tFaz8Guvsz
+-----
+@fergustp @EnergyJvd @Dr_Keefer #FakeFacts #BullshitScience directly paid by #FCKNuclaerlobby #FCKAtomlobby
+Europe invested $41 billion for 24.6 GWs of new wind capacity during 2021. Georgia Power is spending $34 billion for 2.5 GWs of new nuclear. who invested better? 
+https://t.co/tFaz8Guvsz
+-----
+European scientists set nuclear fusion energy record https://t.co/O090ngQVEL
+-----
+@CharlieNuclear @Seb__02 @Breakevennnnnnn @EnergyJvd @JuPe_EU @noturbine @chrispydog @OurWorldInData @NRCgov Gen III+ or gen IV, not gen III is the requirement by 2022 EU taxonomy.  EPR &amp; AP1000, only reactors under construction in EU &amp; NA, are gen III+. https://t.co/3Om5E3AuRy
+-----
+@lulalibre5 @TiemannAmelia @rix_trevor @AnneKristin0806 Europe invested $41 billion for 24.6 GWs of new wind capacity during 2021. Georgia Power is spending $34 billion for 2.5 GWs of new nuclear. 
+#GOrenewable
+#GOWind #GOSolar https://t.co/m3cjXwQtMe
+-----
+European researchers have achieved fusion energy record at JET:  https://t.co/5l9mINxNe2 #nuclear #fusionenergy https://t.co/61Xu8o1faQ
+-----
+FT - European industrial giants join nuclear fusion race https://t.co/6m90xuFcCQ
+-----
+--------------------------------
+
+
+Topic 26
+Sum(p_tw_d):  25.127559680671144
+--------------------------------
+Token                    Prob
+auspol                   0.16042
+thorium                  0.12594
+nuclear_uranium          0.08396
+repeala_auspol           0.05847
+thorium_repeala          0.05847
+uranium_thorium          0.05847
+repeala                  0.05847
+auspol_auspol            0.05697
+eu_level                 0.02549
+eu_face                  0.01949
+merkel                   0.01949
+zero-carbon              0.01649
+rift                     0.01499
+technology_eu            0.01049
+🌎                        0.00900
+face_nuclear             0.00750
+angela                   0.00750
+🌏                        0.00750
+taxonomy_make            0.00750
+main_source              0.00750
+--------------------------------
+Representative documents
+EU faces nuclear rift in decision on energy funds, future https://t.co/Q1peHVlaTi via @Bakersfieldcali
+-----
+Air Pollution Changes Through The Pandemic – A European Barometer
+https://t.co/iAJh5DHkpF
+#nuclear #uranium #thorium #repeal140A #auspol #AusPol2022 https://t.co/ZPjUcZ2i1k
+-----
+Russia will maintain its energy stranglehold on Europe for decades
+https://t.co/wq3RyaSMMK
+#nuclear #uranium #thorium #repeal140A #auspol #auspol2021 https://t.co/KUndvKqSyu
+-----
+The Green Brief: An EU taxonomy fairytale
+https://t.co/py1PunVMLe
+#nuclear #uranium #thorium #repeal140A #auspol #auspol2021 https://t.co/Amuf3ZkOz8
+-----
+A European Revelation On Climate That Biden Should Heed
+https://t.co/AfffEPP4DQ
+#nuclear #uranium #thorium #repeal140A #auspol #auspol2021 https://t.co/EeyasPeBKn
+-----
+Don't Panic, Europe. That's Not Inflation. It's Just Gas.
+https://t.co/vh1qcSQVFH
+#nuclear #uranium #thorium #repeal140A #auspol #auspol2021 https://t.co/Cl7KNHkO2R
+-----
+Evolution' in EU nuclear debate
+https://t.co/QGMgLFyTCp
+#nuclear #uranium #thorium #repeal140A #auspol #auspol2021 https://t.co/b3RarO7Yjd
+-----
+A discussion with Doomberg about the European Energy Crisis and solar’s scalability problems
+https://t.co/tIENcw8TZk
+#nuclear #uranium #thorium #repeal140A #auspol #auspol2021 https://t.co/3wzFzRCnxN
+-----
+"if nuclear energy is not included in the taxonomy, we will make it even more difficult for ourselves to drastically reduce carbon emissions. Then Europe will have to say a premature goodbye to its main source of zero-carbon electricity." 2/3
+
+Debate Wed: https://t.co/ZC3IkqyTev
+-----
+EU faces nuclear rift in decision on energy funds, future https://t.co/q1hWovB7BZ via @kcbsradio 
+
+ Not much about climate or emissions :) #Germany
+-----
+--------------------------------
+
+
